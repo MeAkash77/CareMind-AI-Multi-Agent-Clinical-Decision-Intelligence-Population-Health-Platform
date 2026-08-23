@@ -634,7 +634,7 @@ python scripts/clinic_dashboard.py
 Launches the complete service container stack (FastAPI backend + React frontend + PostgreSQL + Redis) in a single command:
 
 ```bash
-git clone https://github.com/pavanbadempet/AI-Healthcare-System.git
+git clone https://github.com/MeAkash77/CareMind-AI-Multi-Agent-Clinical-Decision-Intelligence-Population-Health-Platform.git
 cd AI-Healthcare-System
 cp .env.example .env          # Update GOOGLE_API_KEY & JWT SECRET_KEY
 docker compose up --build
@@ -647,7 +647,7 @@ To get your workspace running locally with mock user and patient records, follow
 #### 1️⃣ Clone and Install Python Dependencies
 ```bash
 # Clone the repository
-git clone https://github.com/pavanbadempet/AI-Healthcare-System.git
+git clone https://github.com/MeAkash77/CareMind-AI-Multi-Agent-Clinical-Decision-Intelligence-Population-Health-Platform.git
 cd AI-Healthcare-System
 
 # Set up python dependencies
@@ -1127,7 +1127,7 @@ Before submitting a Pull Request, please ensure all local verification checks pa
    ```
 
 
-<a href="https://github.com/pavanbadempet/AI-Healthcare-System/graphs/contributors">
+<a href="https://github.com/MeAkash77/CareMind-AI-Multi-Agent-Clinical-Decision-Intelligence-Population-Health-Platform.git">
   <img src="https://contrib.rocks/image?repo=pavanbadempet/AI-Healthcare-System&max=20" alt="Contributors - Open-Source Developers contributing to the AI Healthcare System codebase" />
 </a>
 
@@ -1209,7 +1209,7 @@ MIT License — Copyright © 2026 **Pavan Badempet**, Shiva Prasad Anagondi, Pra
 
 It helps others discover this open-source healthcare AI platform.
 
-[![Star this repo](https://img.shields.io/github/stars/pavanbadempet/AI-Healthcare-System?style=social)](https://github.com/pavanbadempet/AI-Healthcare-System/stargazers)
+[![Star this repo](https://github.com/MeAkash77/CareMind-AI-Multi-Agent-Clinical-Decision-Intelligence-Population-Health-Platform.git)](https://github.com/MeAkash77/CareMind-AI-Multi-Agent-Clinical-Decision-Intelligence-Population-Health-Platform.git)
 
 </div>
 
